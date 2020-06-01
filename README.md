@@ -4,7 +4,7 @@ release date: 01-06-2020 2:20PM
 
 --------------------------------
 # Objective:
--> text editor with all advance features \n
+-> text editor with all advance features
 -> full potential software 
 
 ---------------------------------
