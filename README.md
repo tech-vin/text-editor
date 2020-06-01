@@ -1,23 +1,23 @@
 # @author: Vineet Singh
-version: 1.1v
+version: 1.1v <br/>
 release date: 01-06-2020 2:20PM
 
 --------------------------------
 # Objective:
--> text editor with all advance features
+-> text editor with all advance features <br/>
 -> full potential software 
 
 ---------------------------------
 # Features:
--> source code is available \n
--> executable file is also attached \n
--> source code is easy to understand \n
+-> source code is available <br/>
+-> executable file is also attached <br/>
+-> source code is easy to understand <br/>
 -> Big O notation is followed 
 
 ---------------------------------
 # System requirements:
--> OS:Windows \n
--> ram:1 GB  \n
+-> OS:Windows <br/>
+-> ram:1 GB  <br/>
 -> Space: 5MB 
 
 ---------------------------------
