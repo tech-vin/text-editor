@@ -17,7 +17,7 @@ release date: 01-06-2020 2:20PM
 ---------------------------------
 # System requirements:
 -> OS:Windows <br/>
--> ram:1 GB  <br/>
+-> ram:1.5 GB  <br/>
 -> Space: 5MB 
 
 ---------------------------------
